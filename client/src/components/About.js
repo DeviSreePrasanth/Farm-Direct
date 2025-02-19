@@ -37,7 +37,7 @@ const About = () => {
               className="w-32 h-32 mx-auto rounded-full border-4 border-green-500"
             />
             <h3 className="text-xl font-bold text-green-500 mt-4">Bhargav</h3>
-            <p>Backend</p>
+            
           </div>
           <div className="bg-gray-100 rounded-lg p-5 text-center">
             <img
@@ -46,7 +46,7 @@ const About = () => {
               className="w-32 h-32 mx-auto rounded-full border-4 border-green-500"
             />
             <h3 className="text-xl font-bold text-green-500 mt-4">Satya</h3>
-            <p>Backend</p>
+            
           </div>
           <div className="bg-gray-100 rounded-lg p-5 text-center">
             <img
@@ -55,7 +55,7 @@ const About = () => {
               className="w-32 h-32 mx-auto rounded-full border-4 border-green-500"
             />
             <h3 className="text-xl font-bold text-green-500 mt-4">DSP</h3>
-            <p>Frontend</p>
+            
           </div>
           <div className="bg-gray-100 rounded-lg p-5 text-center">
             <img
@@ -64,7 +64,7 @@ const About = () => {
               className="w-32 h-32 mx-auto rounded-full border-4 border-green-500"
             />
             <h3 className="text-xl font-bold text-green-500 mt-4">Yaswanth</h3>
-            <p>Frontend</p>
+            
           </div>
           <div className="bg-gray-100 rounded-lg p-5 text-center">
             <img
@@ -73,7 +73,7 @@ const About = () => {
               className="w-32 h-32 mx-auto rounded-full border-4 border-green-500"
             />
             <h3 className="text-xl font-bold text-green-500 mt-4">VVRS Teja</h3>
-            <p>Backend</p>
+            
           </div>
           
         </div>
